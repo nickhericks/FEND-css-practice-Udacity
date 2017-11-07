@@ -1,0 +1,165 @@
+@media screen and (min-width: 990px) {
+
+/** {outline: 1px solid blue !important;}*/
+
+
+/*  COLOR OVERRIDES  */
+.turquoise {
+  color: #02ccba !important;
+}
+.purple {
+  color: #a951ed !important;
+}
+.blue {
+  color: #02b3e4 !important;
+}
+.grey {
+  color: #7d97ad !important;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+hr {
+  max-width: 73.75rem;
+  border-bottom: 1px solid rgba(255,255,255,0.3);
+  border-top: 1px solid rgba(0,0,0,0.1);
+}
+.text-center {
+  text-align: center !important;
+}
+
+.banner {
+  font-size: 1rem;
+  line-height: 1.75rem;
+}
+/*  ###### HEADER ######## */
+.header-small {
+  display: none;
+}
+.header-xl {
+  display: flex;
+  flex-flow: row wrap;
+  height: 6rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-links {
+  display: flex;
+  align-items: baseline;
+}
+.header-links > * {
+  margin-left: 3rem;
+  color: #fff;
+}
+.divider {
+  cursor: default;
+}
+.hamburger-icon {
+  display: none;
+}
+.logo-white {
+  display: none;
+}
+.divider {
+  display: block;
+}
+
+.sidebar-logo {
+  display: none;
+}
+.horizontal-logo {
+  display: block;
+}
+.nav-horizontal {
+  display: flex;
+  border: 1px red solid;
+
+}
+
+.hero-background {
+  height: 660px;
+}
+.hero-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 1200px;
+  /*border: 1px green solid;*/
+
+}
+.hero {
+
+}
+.hero-cards {
+  width: 30%;
+
+}
+.row-card {
+  height: 144px;
+}
+.row-card-image {
+  width: 128px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
